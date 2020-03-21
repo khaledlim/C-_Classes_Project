@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1547374627 source:c:\users\user\desktop\classes\main.cpp
+	<iostream>
+	"Peaple.h"
+	"Birthday.h"
+
+1547374627 c:\users\user\desktop\classes\include\peaple.h
+	<string>
+	"Birthday.h"
+
+1547374643 c:\users\user\desktop\classes\include\birthday.h
+
+1547374627 source:c:\users\user\desktop\classes\src\birthday.cpp
+	"Birthday.h"
+	<iostream>
+
